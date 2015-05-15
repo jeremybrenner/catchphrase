@@ -1,0 +1,46 @@
+h1 {
+	font-family: 'Oswald', sans-serif;
+}
+
+
+body {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+li {
+   text-align: left;
+   margin-left: 10%;
+   margin-right: 10%;
+
+}
+
+span.label {
+	padding-left: 2%;
+	padding-right: 2%;
+	background-color: white;
+	color: grey;
+}
+
+
+.jumbotron {
+    text-align: center;
+    border-bottom: 1px solid #e5e5e5;
+    left: 20%;
+    right: 20%;
+}
+
+#phrase-form {
+    text-align: center;
+    margin: 5%;
+}
+
+#page-wrapper {
+    margin-right: 10%;
+    margin-left: 10%;
+    padding: 7%;
+}
+
+button {
+    text-align: center;
+}
